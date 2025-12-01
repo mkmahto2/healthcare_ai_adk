@@ -1,0 +1,12 @@
+healthcare_ai_adk/
+│
+├── agent.py
+├── tools/
+│   ├── medical_search.py
+│   ├── drug_info.py
+│   ├── symptom_checker.py
+│   └── safety_layer.py
+│
+├── config.py
+├── requirements.txt
+└── README.md
